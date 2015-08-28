@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <data category = "未登录的情况下参加活动">
+        <url>http://test.webapi.yilule.com:5580/api/BootyActivity</url>
+        <activityId>4</activityId>
+        <phoneIdCode>cac42f1fdaa5497d940cc94c589b64f9</phoneIdCode>
+        <accoundId></accoundId>
+    </data>
+    <data category = "登录的情况下参加活动">
+        <url>http://test.webapi.yilule.com:5580/api/BootyActivity</url>
+        <activityId>4</activityId>
+        <phoneIdCode>cac42f1fdaa5497d940cc94c589b64f9</phoneIdCode>
+        <accoundId>"D627456A-8F85-4559-9543-A96EE5732254"</accoundId>
+    </data>
+</root>

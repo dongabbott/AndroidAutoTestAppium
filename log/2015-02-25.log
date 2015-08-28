@@ -1,0 +1,223 @@
+2015-02-25 17:27:57,780 specialUi.py[line:93] DEBUG exec adb shell 【adb install -r E:\\apk\\huodong\\tapk\\ARoadTourism.apk】 return ['\tpkg: /data/local/tmp/ARoadTourism.apk\n', '\n', 'Success\n', '\n', '2273 KB/s (12365010 bytes in 5.310s)\n']
+2015-02-25 17:27:58,549 mappium.py[line:68] DEBUG appium connect info {'platformVersion': '4.4.2', 'deviceName': 'F2CDU14A13002344', 'platformName': 'Android', 'appActivity': 'com.topview.activity.WelcomeActivity', 'appPackage': 'com.topview.slidemenuframe'}
+2015-02-25 17:27:58,552 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session {"desiredCapabilities": {"platformVersion": "4.4.2", "deviceName": "F2CDU14A13002344", "platformName": "Android", "appActivity": "com.topview.activity.WelcomeActivity", "appPackage": "com.topview.slidemenuframe"}}
+2015-02-25 17:28:05,934 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:05,937 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/element {"using": "id", "sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4", "value": "com.topview.slidemenuframe:id/load_up"}
+2015-02-25 17:28:06,530 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:07,030 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/element {"using": "id", "sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4", "value": "com.topview.slidemenuframe:id/load_up"}
+2015-02-25 17:28:07,081 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:07,582 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/element {"using": "id", "sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4", "value": "com.topview.slidemenuframe:id/load_up"}
+2015-02-25 17:28:07,604 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:08,104 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/element {"using": "id", "sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4", "value": "com.topview.slidemenuframe:id/load_up"}
+2015-02-25 17:28:08,132 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:08,634 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/element {"using": "id", "sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4", "value": "com.topview.slidemenuframe:id/load_up"}
+2015-02-25 17:28:08,654 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:09,154 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/element {"using": "id", "sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4", "value": "com.topview.slidemenuframe:id/load_up"}
+2015-02-25 17:28:09,285 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:09,785 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/element {"using": "id", "sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4", "value": "com.topview.slidemenuframe:id/load_up"}
+2015-02-25 17:28:09,831 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:09,831 remote_connection.py[line:363] DEBUG GET http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/window/current/size {"windowHandle": "current", "sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4"}
+2015-02-25 17:28:09,846 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:09,846 remote_connection.py[line:363] DEBUG GET http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/window/current/size {"windowHandle": "current", "sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4"}
+2015-02-25 17:28:09,887 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:09,887 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/touch/perform {"sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4", "actions": [{"action": "press", "options": {"y": 947.2, "x": 360.0}}, {"action": "wait", "options": {"ms": 0}}, {"action": "moveTo", "options": {"y": 236.8, "x": 360.0}}, {"action": "release", "options": {}}]}
+2015-02-25 17:28:10,315 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:11,315 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/touch/perform {"sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4", "actions": [{"action": "press", "options": {"y": 947.2, "x": 360.0}}, {"action": "wait", "options": {"ms": 0}}, {"action": "moveTo", "options": {"y": 236.8, "x": 360.0}}, {"action": "release", "options": {}}]}
+2015-02-25 17:28:11,678 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:12,680 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/element {"using": "class name", "sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4", "value": "android.widget.ImageButton"}
+2015-02-25 17:28:12,755 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:12,756 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/element/2/click {"sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4", "id": "2"}
+2015-02-25 17:28:14,114 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:14,115 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/element {"using": "class name", "sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:28:15,437 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:15,938 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/element {"using": "class name", "sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:28:16,042 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:16,543 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/element {"using": "class name", "sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:28:16,674 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:17,174 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/element {"using": "class name", "sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:28:17,289 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:17,789 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/element {"using": "class name", "sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:28:17,832 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:18,332 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/element {"using": "class name", "sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:28:18,384 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:18,884 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/element {"using": "class name", "sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:28:18,946 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:19,447 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/element {"using": "class name", "sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:28:19,516 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:20,016 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/element {"using": "class name", "sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:28:20,098 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:20,598 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/element {"using": "class name", "sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:28:20,671 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:21,171 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/element {"using": "class name", "sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:28:21,601 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:22,101 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/element {"using": "class name", "sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:28:22,176 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:22,677 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/element {"using": "class name", "sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:28:22,730 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:23,232 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/element {"using": "class name", "sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:28:23,293 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:23,793 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4/element {"using": "class name", "sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:28:23,864 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:28:24,365 specialUi.py[line:66] ERROR Element Load TimeOut [<function <lambda> at 0x024E9D30>] Message: 
+
+2015-02-25 17:28:24,367 remote_connection.py[line:363] DEBUG DELETE http://127.0.0.1:4723/wd/hub/session/94bd2995-576f-4687-b765-2cc5dc07f5b4 {"sessionId": "94bd2995-576f-4687-b765-2cc5dc07f5b4"}
+2015-02-25 17:28:25,233 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:10,150 specialUi.py[line:93] DEBUG exec adb shell 【adb install -r E:\\apk\\huodong\\tapk\\ARoadTourism.apk】 return ['\tpkg: /data/local/tmp/ARoadTourism.apk\n', '\n', 'Success\n', '\n', '2081 KB/s (12365010 bytes in 5.802s)\n']
+2015-02-25 17:31:10,898 mappium.py[line:68] DEBUG appium connect info {'platformVersion': '4.4.2', 'deviceName': 'F2CDU14A13002344', 'platformName': 'Android', 'appActivity': 'com.topview.activity.WelcomeActivity', 'appPackage': 'com.topview.slidemenuframe'}
+2015-02-25 17:31:10,901 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session {"desiredCapabilities": {"platformVersion": "4.4.2", "deviceName": "F2CDU14A13002344", "platformName": "Android", "appActivity": "com.topview.activity.WelcomeActivity", "appPackage": "com.topview.slidemenuframe"}}
+2015-02-25 17:31:18,717 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:18,719 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "id", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/load_up"}
+2015-02-25 17:31:19,664 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:20,164 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "id", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/load_up"}
+2015-02-25 17:31:20,190 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:20,690 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "id", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/load_up"}
+2015-02-25 17:31:20,743 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:21,243 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "id", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/load_up"}
+2015-02-25 17:31:21,272 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:21,773 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "id", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/load_up"}
+2015-02-25 17:31:21,792 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:22,292 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "id", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/load_up"}
+2015-02-25 17:31:23,114 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:23,115 remote_connection.py[line:363] DEBUG GET http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/window/current/size {"windowHandle": "current", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e"}
+2015-02-25 17:31:23,132 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:23,134 remote_connection.py[line:363] DEBUG GET http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/window/current/size {"windowHandle": "current", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e"}
+2015-02-25 17:31:23,157 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:23,157 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/touch/perform {"sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "actions": [{"action": "press", "options": {"y": 947.2, "x": 360.0}}, {"action": "wait", "options": {"ms": 0}}, {"action": "moveTo", "options": {"y": 236.8, "x": 360.0}}, {"action": "release", "options": {}}]}
+2015-02-25 17:31:23,579 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:24,581 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/touch/perform {"sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "actions": [{"action": "press", "options": {"y": 947.2, "x": 360.0}}, {"action": "wait", "options": {"ms": 0}}, {"action": "moveTo", "options": {"y": 236.8, "x": 360.0}}, {"action": "release", "options": {}}]}
+2015-02-25 17:31:24,976 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:25,977 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "android.widget.ImageButton"}
+2015-02-25 17:31:26,000 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:26,000 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element/2/click {"sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "id": "2"}
+2015-02-25 17:31:27,401 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:27,405 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:28,982 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:29,482 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:29,588 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:30,088 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:30,157 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:30,658 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:30,701 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:31,203 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:31,305 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:31,805 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:32,207 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:32,709 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:32,773 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:33,275 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:33,342 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:33,842 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:33,908 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:34,408 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:34,479 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:34,979 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:35,084 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:35,586 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:35,632 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:36,134 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:36,490 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:36,990 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:37,058 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:37,559 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:37,637 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:38,138 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:38,207 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:38,709 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:38,788 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:39,288 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:39,345 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:39,845 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:39,914 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:40,415 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:40,483 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:40,983 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:41,382 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:41,884 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:41,938 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:42,438 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:42,743 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:43,243 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:43,299 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:43,799 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:44,193 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:44,694 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:44,770 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:45,270 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:45,671 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:46,173 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:46,280 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:46,780 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:46,826 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:47,328 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e/element {"using": "class name", "sessionId": "953a1168-457e-400f-9a34-0e0b8003953e", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:31:47,625 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:31:48,127 specialUi.py[line:66] ERROR Element Load TimeOut [<function <lambda> at 0x02459EF0>] Message: 
+
+2015-02-25 17:31:48,128 remote_connection.py[line:363] DEBUG DELETE http://127.0.0.1:4723/wd/hub/session/953a1168-457e-400f-9a34-0e0b8003953e {"sessionId": "953a1168-457e-400f-9a34-0e0b8003953e"}
+2015-02-25 17:31:49,003 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:32:26,299 specialUi.py[line:93] DEBUG exec adb shell 【adb install -r E:\\apk\\huodong\\tapk\\ARoadTourism.apk】 return ['\tpkg: /data/local/tmp/ARoadTourism.apk\n', '\n', 'Success\n', '\n', '2310 KB/s (12365010 bytes in 5.225s)\n']
+2015-02-25 17:32:26,996 mappium.py[line:68] DEBUG appium connect info {'platformVersion': '4.4.2', 'deviceName': 'F2CDU14A13002344', 'platformName': 'Android', 'appActivity': 'com.topview.activity.WelcomeActivity', 'appPackage': 'com.topview.slidemenuframe'}
+2015-02-25 17:32:27,000 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session {"desiredCapabilities": {"platformVersion": "4.4.2", "deviceName": "F2CDU14A13002344", "platformName": "Android", "appActivity": "com.topview.activity.WelcomeActivity", "appPackage": "com.topview.slidemenuframe"}}
+2015-02-25 17:32:34,355 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:32:34,357 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/4d578b5b-d9ab-4546-93bd-7938af61d2e2/element {"using": "id", "sessionId": "4d578b5b-d9ab-4546-93bd-7938af61d2e2", "value": "com.topview.slidemenuframe:id/load_up"}
+2015-02-25 17:32:34,901 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:32:35,401 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/4d578b5b-d9ab-4546-93bd-7938af61d2e2/element {"using": "id", "sessionId": "4d578b5b-d9ab-4546-93bd-7938af61d2e2", "value": "com.topview.slidemenuframe:id/load_up"}
+2015-02-25 17:32:35,421 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:32:35,923 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/4d578b5b-d9ab-4546-93bd-7938af61d2e2/element {"using": "id", "sessionId": "4d578b5b-d9ab-4546-93bd-7938af61d2e2", "value": "com.topview.slidemenuframe:id/load_up"}
+2015-02-25 17:32:35,953 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:32:36,454 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/4d578b5b-d9ab-4546-93bd-7938af61d2e2/element {"using": "id", "sessionId": "4d578b5b-d9ab-4546-93bd-7938af61d2e2", "value": "com.topview.slidemenuframe:id/load_up"}
+2015-02-25 17:32:36,480 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:32:36,980 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/4d578b5b-d9ab-4546-93bd-7938af61d2e2/element {"using": "id", "sessionId": "4d578b5b-d9ab-4546-93bd-7938af61d2e2", "value": "com.topview.slidemenuframe:id/load_up"}
+2015-02-25 17:32:37,000 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:32:37,500 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/4d578b5b-d9ab-4546-93bd-7938af61d2e2/element {"using": "id", "sessionId": "4d578b5b-d9ab-4546-93bd-7938af61d2e2", "value": "com.topview.slidemenuframe:id/load_up"}
+2015-02-25 17:32:37,822 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:32:38,323 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/4d578b5b-d9ab-4546-93bd-7938af61d2e2/element {"using": "id", "sessionId": "4d578b5b-d9ab-4546-93bd-7938af61d2e2", "value": "com.topview.slidemenuframe:id/load_up"}
+2015-02-25 17:32:38,440 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:32:38,440 remote_connection.py[line:363] DEBUG GET http://127.0.0.1:4723/wd/hub/session/4d578b5b-d9ab-4546-93bd-7938af61d2e2/window/current/size {"windowHandle": "current", "sessionId": "4d578b5b-d9ab-4546-93bd-7938af61d2e2"}
+2015-02-25 17:32:38,457 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:32:38,457 remote_connection.py[line:363] DEBUG GET http://127.0.0.1:4723/wd/hub/session/4d578b5b-d9ab-4546-93bd-7938af61d2e2/window/current/size {"windowHandle": "current", "sessionId": "4d578b5b-d9ab-4546-93bd-7938af61d2e2"}
+2015-02-25 17:32:38,473 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:32:38,473 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/4d578b5b-d9ab-4546-93bd-7938af61d2e2/touch/perform {"sessionId": "4d578b5b-d9ab-4546-93bd-7938af61d2e2", "actions": [{"action": "press", "options": {"y": 947.2, "x": 360.0}}, {"action": "wait", "options": {"ms": 0}}, {"action": "moveTo", "options": {"y": 236.8, "x": 360.0}}, {"action": "release", "options": {}}]}
+2015-02-25 17:32:38,897 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:32:39,897 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/4d578b5b-d9ab-4546-93bd-7938af61d2e2/touch/perform {"sessionId": "4d578b5b-d9ab-4546-93bd-7938af61d2e2", "actions": [{"action": "press", "options": {"y": 947.2, "x": 360.0}}, {"action": "wait", "options": {"ms": 0}}, {"action": "moveTo", "options": {"y": 236.8, "x": 360.0}}, {"action": "release", "options": {}}]}
+2015-02-25 17:32:40,266 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:32:41,267 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/4d578b5b-d9ab-4546-93bd-7938af61d2e2/element {"using": "class name", "sessionId": "4d578b5b-d9ab-4546-93bd-7938af61d2e2", "value": "android.widget.ImageButton"}
+2015-02-25 17:32:41,305 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:32:41,305 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/4d578b5b-d9ab-4546-93bd-7938af61d2e2/element/2/click {"sessionId": "4d578b5b-d9ab-4546-93bd-7938af61d2e2", "id": "2"}
+2015-02-25 17:32:42,809 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:32:42,812 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/4d578b5b-d9ab-4546-93bd-7938af61d2e2/element {"using": "id", "sessionId": "4d578b5b-d9ab-4546-93bd-7938af61d2e2", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:32:43,859 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:32:43,859 remote_connection.py[line:363] DEBUG DELETE http://127.0.0.1:4723/wd/hub/session/4d578b5b-d9ab-4546-93bd-7938af61d2e2 {"sessionId": "4d578b5b-d9ab-4546-93bd-7938af61d2e2"}
+2015-02-25 17:32:44,811 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:37:01,401 mappium.py[line:46] DEBUG appium connect info {'platformVersion': '4.4.2', 'deviceName': 'F2CDU14A13002344', 'platformName': 'Android', 'appActivity': 'com.topview.activity.WelcomeActivity', 'appPackage': 'com.topview.slidemenuframe'}
+2015-02-25 17:37:01,407 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session {"desiredCapabilities": {"platformVersion": "4.4.2", "deviceName": "F2CDU14A13002344", "platformName": "Android", "appActivity": "com.topview.activity.WelcomeActivity", "appPackage": "com.topview.slidemenuframe"}}
+2015-02-25 17:37:10,858 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:37:10,858 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/ca77d8b4-9cfb-41e1-8812-4ff03cc948c4/element {"using": "id", "sessionId": "ca77d8b4-9cfb-41e1-8812-4ff03cc948c4", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:37:11,154 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:37:11,654 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/ca77d8b4-9cfb-41e1-8812-4ff03cc948c4/element {"using": "id", "sessionId": "ca77d8b4-9cfb-41e1-8812-4ff03cc948c4", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:37:11,698 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:37:12,198 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/ca77d8b4-9cfb-41e1-8812-4ff03cc948c4/element {"using": "id", "sessionId": "ca77d8b4-9cfb-41e1-8812-4ff03cc948c4", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:37:12,270 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:37:12,772 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/ca77d8b4-9cfb-41e1-8812-4ff03cc948c4/element {"using": "id", "sessionId": "ca77d8b4-9cfb-41e1-8812-4ff03cc948c4", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:37:12,792 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:37:13,292 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/ca77d8b4-9cfb-41e1-8812-4ff03cc948c4/element {"using": "id", "sessionId": "ca77d8b4-9cfb-41e1-8812-4ff03cc948c4", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:37:13,365 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:37:13,865 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/ca77d8b4-9cfb-41e1-8812-4ff03cc948c4/element {"using": "id", "sessionId": "ca77d8b4-9cfb-41e1-8812-4ff03cc948c4", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:37:13,884 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:37:14,384 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/ca77d8b4-9cfb-41e1-8812-4ff03cc948c4/element {"using": "id", "sessionId": "ca77d8b4-9cfb-41e1-8812-4ff03cc948c4", "value": "com.topview.slidemenuframe:id/sousuo_remen"}
+2015-02-25 17:37:16,043 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:37:16,043 remote_connection.py[line:363] DEBUG GET http://127.0.0.1:4723/wd/hub/session/ca77d8b4-9cfb-41e1-8812-4ff03cc948c4/element/1/text {"sessionId": "ca77d8b4-9cfb-41e1-8812-4ff03cc948c4", "id": "1"}
+2015-02-25 17:37:16,193 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:37:16,194 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/ca77d8b4-9cfb-41e1-8812-4ff03cc948c4/element {"using": "id", "sessionId": "ca77d8b4-9cfb-41e1-8812-4ff03cc948c4", "value": "com.topview.slidemenuframe:id/ivTitleBtnLeft"}
+2015-02-25 17:37:16,239 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:37:16,240 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/ca77d8b4-9cfb-41e1-8812-4ff03cc948c4/element/2/click {"sessionId": "ca77d8b4-9cfb-41e1-8812-4ff03cc948c4", "id": "2"}
+2015-02-25 17:37:19,413 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:37:19,414 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/ca77d8b4-9cfb-41e1-8812-4ff03cc948c4/element {"using": "id", "sessionId": "ca77d8b4-9cfb-41e1-8812-4ff03cc948c4", "value": "com.topview.slidemenuframe:id/setting_img"}
+2015-02-25 17:37:19,520 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:37:19,522 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/ca77d8b4-9cfb-41e1-8812-4ff03cc948c4/element/3/click {"sessionId": "ca77d8b4-9cfb-41e1-8812-4ff03cc948c4", "id": "3"}
+2015-02-25 17:37:19,964 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:37:19,966 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/ca77d8b4-9cfb-41e1-8812-4ff03cc948c4/element {"using": "id", "sessionId": "ca77d8b4-9cfb-41e1-8812-4ff03cc948c4", "value": "com.topview.slidemenuframe:id/cleancache"}
+2015-02-25 17:37:20,684 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:37:20,684 remote_connection.py[line:363] DEBUG POST http://127.0.0.1:4723/wd/hub/session/ca77d8b4-9cfb-41e1-8812-4ff03cc948c4/element/4/click {"sessionId": "ca77d8b4-9cfb-41e1-8812-4ff03cc948c4", "id": "4"}
+2015-02-25 17:37:21,391 remote_connection.py[line:458] DEBUG Finished Request
+2015-02-25 17:37:21,391 remote_connection.py[line:363] DEBUG DELETE http://127.0.0.1:4723/wd/hub/session/ca77d8b4-9cfb-41e1-8812-4ff03cc948c4 {"sessionId": "ca77d8b4-9cfb-41e1-8812-4ff03cc948c4"}
+2015-02-25 17:37:22,163 remote_connection.py[line:458] DEBUG Finished Request

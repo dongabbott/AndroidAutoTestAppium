@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <data category = "获取最新的10条获奖信息">
+        <url>http://test.webapi.yilule.com:5580/api/BootyActivity</url>
+        <activityId>4</activityId>
+        <count>10</count>
+    </data>
+    <data category = "获取中奖名单">
+        <url>http://test.webapi.yilule.com:5580/api/api/Activity</url>
+        <activityId>4</activityId>
+        <pageIndex>5</pageIndex>
+        <pageSize>"10"</pageSize>
+    </data>
+</root>

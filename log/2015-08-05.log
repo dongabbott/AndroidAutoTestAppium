@@ -1,0 +1,128 @@
+2015-08-05 09:32:26,065 tapp.py[line:30] ERROR 系统中adb命令不能正常使用或手机未正常连接！
+2015-08-05 09:32:26,565 tapp.py[line:30] ERROR 系统中adb命令不能正常使用或手机未正常连接！
+2015-08-05 09:32:26,634 tapp.py[line:30] ERROR 系统中adb命令不能正常使用或手机未正常连接！
+2015-08-05 10:19:35,997 mobilehard.py[line:36] DEBUG 执行adb命令[adb -s X8QDU15210001536 install -r D:/code/android/AndroidAutoTestAppium/tapk/ARoadTourism_v2.1.0_debug_2015_08_03_for_360.apk],返回结果 ['\tpkg: /data/local/tmp/ARoadTourism_v2.1.0_debug_2015_08_03_for_360.apk\n', '\n', 'Success\n', '\n', '4330 KB/s (13753062 bytes in 3.101s)\n']
+2015-08-05 10:19:45,128 mobilehard.py[line:36] DEBUG 执行adb命令[adb -s X8QDU15210001536 install -r D:/code/android/AndroidAutoTestAppium/tapk/ARoadTourism_v2.1.0_debug_2015_08_03_for_360.apk],返回结果 ['\tpkg: /data/local/tmp/ARoadTourism_v2.1.0_debug_2015_08_03_for_360.apk\n', '\n', 'Success\n', '\n', '4877 KB/s (13753062 bytes in 2.753s)\n']
+2015-08-05 10:20:01,756 mobilehard.py[line:36] DEBUG 执行adb命令[adb -s X8QDU15210001536 install -r D:/code/android/AndroidAutoTestAppium/tapk/ARoadTourism_v2.1.0_debug_2015_08_03_for_360.apk],返回结果 ['\tpkg: /data/local/tmp/ARoadTourism_v2.1.0_debug_2015_08_03_for_360.apk\n', '\n', 'Success\n', '\n', '1991 KB/s (13753062 bytes in 6.745s)\n']
+2015-08-05 10:47:21,280 mdappium.py[line:48] DEBUG appium启动信息 {'platformVersion': '4.4.2', 'deviceName': 'X8QDU15210001536', 'platformName': 'Android', 'appActivity': 'com.topview.activity.WelcomeActivity', 'appPackage': 'com.topview.slidemenuframe'}
+2015-08-05 10:47:21,286 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session {"desiredCapabilities": {"platformVersion": "4.4.2", "deviceName": "X8QDU15210001536", "platformName": "Android", "appActivity": "com.topview.activity.WelcomeActivity", "appPackage": "com.topview.slidemenuframe"}}
+2015-08-05 10:47:27,796 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:47:27,796 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f/element {"using": "id", "sessionId": "e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f", "value": " com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:47:33,736 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:47:34,236 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f/element {"using": "id", "sessionId": "e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f", "value": " com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:47:34,740 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:47:35,243 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f/element {"using": "id", "sessionId": "e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f", "value": " com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:47:35,653 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:47:36,153 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f/element {"using": "id", "sessionId": "e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f", "value": " com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:47:36,650 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:47:37,150 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f/element {"using": "id", "sessionId": "e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f", "value": " com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:47:37,691 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:47:38,193 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f/element {"using": "id", "sessionId": "e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f", "value": " com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:47:38,645 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:47:39,145 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f/element {"using": "id", "sessionId": "e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f", "value": " com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:47:39,586 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:47:40,086 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f/element {"using": "id", "sessionId": "e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f", "value": " com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:47:40,482 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:47:40,983 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f/element {"using": "id", "sessionId": "e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f", "value": " com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:47:41,367 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:47:41,868 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f/element {"using": "id", "sessionId": "e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f", "value": " com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:47:42,414 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:47:42,970 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f/element {"using": "id", "sessionId": "e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f", "value": " com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:47:43,361 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:47:43,861 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f/element {"using": "id", "sessionId": "e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f", "value": " com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:47:44,263 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:47:44,763 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f/element {"using": "id", "sessionId": "e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f", "value": " com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:47:45,107 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:47:45,608 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f/element {"using": "id", "sessionId": "e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f", "value": " com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:47:46,029 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:47:46,529 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f/element {"using": "id", "sessionId": "e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f", "value": " com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:47:46,835 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:47:47,335 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f/element {"using": "id", "sessionId": "e8cdb5ac-65b4-4f93-bba0-2308f5c9a51f", "value": " com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:47:47,746 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:47:48,246 mdappium.py[line:94] ERROR 页面加载超时 [<function <lambda> at 0x02C8F4F0>] Message: 
+
+2015-08-05 10:47:48,651 mdappium.py[line:48] DEBUG appium启动信息 {'platformVersion': '4.4.2', 'deviceName': 'X8QDU15210001536', 'platformName': 'Android', 'appActivity': 'com.topview.activity.WelcomeActivity', 'appPackage': 'com.topview.slidemenuframe'}
+2015-08-05 10:47:48,651 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session {"desiredCapabilities": {"platformVersion": "4.4.2", "deviceName": "X8QDU15210001536", "platformName": "Android", "appActivity": "com.topview.activity.WelcomeActivity", "appPackage": "com.topview.slidemenuframe"}}
+2015-08-05 10:47:48,665 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:47:48,667 mdappium.py[line:53] ERROR appium服务器被占用!, 	 Message: A new session could not be created. (Original error: Requested a new session but one was in progress)
+
+2015-08-05 10:47:50,016 mdappium.py[line:48] DEBUG appium启动信息 {'platformVersion': '4.4.2', 'deviceName': 'X8QDU15210001536', 'platformName': 'Android', 'appActivity': 'com.topview.activity.WelcomeActivity', 'appPackage': 'com.topview.slidemenuframe'}
+2015-08-05 10:47:50,016 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session {"desiredCapabilities": {"platformVersion": "4.4.2", "deviceName": "X8QDU15210001536", "platformName": "Android", "appActivity": "com.topview.activity.WelcomeActivity", "appPackage": "com.topview.slidemenuframe"}}
+2015-08-05 10:47:50,023 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:47:50,025 mdappium.py[line:53] ERROR appium服务器被占用!, 	 Message: A new session could not be created. (Original error: Requested a new session but one was in progress)
+
+2015-08-05 10:51:22,762 mdappium.py[line:48] DEBUG appium启动信息 {'platformVersion': '4.4.2', 'deviceName': 'X8QDU15210001536', 'platformName': 'Android', 'appActivity': 'com.topview.activity.WelcomeActivity', 'appPackage': 'com.topview.slidemenuframe'}
+2015-08-05 10:51:22,770 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session {"desiredCapabilities": {"platformVersion": "4.4.2", "deviceName": "X8QDU15210001536", "platformName": "Android", "appActivity": "com.topview.activity.WelcomeActivity", "appPackage": "com.topview.slidemenuframe"}}
+2015-08-05 10:51:33,516 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:51:33,516 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/847c436a-20c4-4cdb-8b00-e6e5e913899b/element {"using": "id", "sessionId": "847c436a-20c4-4cdb-8b00-e6e5e913899b", "value": "com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:51:34,851 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:51:35,352 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/847c436a-20c4-4cdb-8b00-e6e5e913899b/element {"using": "id", "sessionId": "847c436a-20c4-4cdb-8b00-e6e5e913899b", "value": "com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:51:35,440 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:51:35,940 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/847c436a-20c4-4cdb-8b00-e6e5e913899b/element {"using": "id", "sessionId": "847c436a-20c4-4cdb-8b00-e6e5e913899b", "value": "com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:51:36,042 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:51:36,545 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/847c436a-20c4-4cdb-8b00-e6e5e913899b/element {"using": "id", "sessionId": "847c436a-20c4-4cdb-8b00-e6e5e913899b", "value": "com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:51:38,019 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:51:38,019 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/847c436a-20c4-4cdb-8b00-e6e5e913899b/element/1/click {"sessionId": "847c436a-20c4-4cdb-8b00-e6e5e913899b", "id": "1"}
+2015-08-05 10:51:38,732 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:51:38,733 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/847c436a-20c4-4cdb-8b00-e6e5e913899b/element {"using": "id", "sessionId": "847c436a-20c4-4cdb-8b00-e6e5e913899b", "value": "com.topview.slidemenuframe:id/ll_user_info"}
+2015-08-05 10:51:39,436 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:51:39,437 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/847c436a-20c4-4cdb-8b00-e6e5e913899b/element/2/click {"sessionId": "847c436a-20c4-4cdb-8b00-e6e5e913899b", "id": "2"}
+2015-08-05 10:51:40,381 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:51:40,381 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/847c436a-20c4-4cdb-8b00-e6e5e913899b/element {"using": "id", "sessionId": "847c436a-20c4-4cdb-8b00-e6e5e913899b", "value": "com.topview.slidemenuframe:id/user_name"}
+2015-08-05 10:51:41,035 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:51:41,036 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/847c436a-20c4-4cdb-8b00-e6e5e913899b/element/3/value {"sessionId": "847c436a-20c4-4cdb-8b00-e6e5e913899b", "id": "3", "value": ["1", "3", "4", "7", "6", "0", "8", "5", "0", "2", "6"]}
+2015-08-05 10:51:46,640 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:51:46,641 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/847c436a-20c4-4cdb-8b00-e6e5e913899b/element {"using": "id", "sessionId": "847c436a-20c4-4cdb-8b00-e6e5e913899b", "value": "com.topview.slidemenuframe:id/user_pwd"}
+2015-08-05 10:51:47,190 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:51:47,190 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/847c436a-20c4-4cdb-8b00-e6e5e913899b/element/4/value {"sessionId": "847c436a-20c4-4cdb-8b00-e6e5e913899b", "id": "4", "value": ["1", "2", "3", "4", "5", "6"]}
+2015-08-05 10:51:52,076 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:51:52,078 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/847c436a-20c4-4cdb-8b00-e6e5e913899b/element {"using": "id", "sessionId": "847c436a-20c4-4cdb-8b00-e6e5e913899b", "value": "com.topview.slidemenuframe:id/user_login"}
+2015-08-05 10:51:52,625 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:51:52,625 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/847c436a-20c4-4cdb-8b00-e6e5e913899b/element/5/click {"sessionId": "847c436a-20c4-4cdb-8b00-e6e5e913899b", "id": "5"}
+2015-08-05 10:51:52,828 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:51:52,828 remote_connection.py[line:372] DEBUG DELETE http://127.0.0.1:4723/wd/hub/session/847c436a-20c4-4cdb-8b00-e6e5e913899b {"sessionId": "847c436a-20c4-4cdb-8b00-e6e5e913899b"}
+2015-08-05 10:51:53,614 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:51:53,875 mdappium.py[line:48] DEBUG appium启动信息 {'platformVersion': '4.4.2', 'deviceName': 'X8QDU15210001536', 'platformName': 'Android', 'appActivity': 'com.topview.activity.WelcomeActivity', 'appPackage': 'com.topview.slidemenuframe'}
+2015-08-05 10:51:53,875 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session {"desiredCapabilities": {"platformVersion": "4.4.2", "deviceName": "X8QDU15210001536", "platformName": "Android", "appActivity": "com.topview.activity.WelcomeActivity", "appPackage": "com.topview.slidemenuframe"}}
+2015-08-05 10:51:59,078 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:51:59,079 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/7f6fab96-2a77-4892-a941-1feaa81a6b64/element {"using": "id", "sessionId": "7f6fab96-2a77-4892-a941-1feaa81a6b64", "value": "com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:52:00,440 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:52:00,940 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/7f6fab96-2a77-4892-a941-1feaa81a6b64/element {"using": "id", "sessionId": "7f6fab96-2a77-4892-a941-1feaa81a6b64", "value": "com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:52:00,993 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:52:01,494 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/7f6fab96-2a77-4892-a941-1feaa81a6b64/element {"using": "id", "sessionId": "7f6fab96-2a77-4892-a941-1feaa81a6b64", "value": "com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:52:01,562 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:52:02,062 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/7f6fab96-2a77-4892-a941-1feaa81a6b64/element {"using": "id", "sessionId": "7f6fab96-2a77-4892-a941-1feaa81a6b64", "value": "com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:52:03,299 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:52:03,801 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/7f6fab96-2a77-4892-a941-1feaa81a6b64/element {"using": "id", "sessionId": "7f6fab96-2a77-4892-a941-1feaa81a6b64", "value": "com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:52:04,536 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:52:04,538 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/7f6fab96-2a77-4892-a941-1feaa81a6b64/element/1/click {"sessionId": "7f6fab96-2a77-4892-a941-1feaa81a6b64", "id": "1"}
+2015-08-05 10:52:05,256 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:52:05,257 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/7f6fab96-2a77-4892-a941-1feaa81a6b64/element {"using": "id", "sessionId": "7f6fab96-2a77-4892-a941-1feaa81a6b64", "value": "com.topview.slidemenuframe:id/ll_user_info"}
+2015-08-05 10:52:05,967 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:52:05,969 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/7f6fab96-2a77-4892-a941-1feaa81a6b64/element/2/click {"sessionId": "7f6fab96-2a77-4892-a941-1feaa81a6b64", "id": "2"}
+2015-08-05 10:52:06,878 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:52:06,878 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/7f6fab96-2a77-4892-a941-1feaa81a6b64/element {"using": "id", "sessionId": "7f6fab96-2a77-4892-a941-1feaa81a6b64", "value": "com.topview.slidemenuframe:id/user_name"}
+2015-08-05 10:52:08,308 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:52:08,319 remote_connection.py[line:372] DEBUG DELETE http://127.0.0.1:4723/wd/hub/session/7f6fab96-2a77-4892-a941-1feaa81a6b64 {"sessionId": "7f6fab96-2a77-4892-a941-1feaa81a6b64"}
+2015-08-05 10:52:09,026 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:52:09,815 mdappium.py[line:48] DEBUG appium启动信息 {'platformVersion': '4.4.2', 'deviceName': 'X8QDU15210001536', 'platformName': 'Android', 'appActivity': 'com.topview.activity.WelcomeActivity', 'appPackage': 'com.topview.slidemenuframe'}
+2015-08-05 10:52:09,815 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session {"desiredCapabilities": {"platformVersion": "4.4.2", "deviceName": "X8QDU15210001536", "platformName": "Android", "appActivity": "com.topview.activity.WelcomeActivity", "appPackage": "com.topview.slidemenuframe"}}
+2015-08-05 10:52:15,595 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:52:15,596 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/e3046b73-fe59-422f-ad5d-1f499ee161be/element {"using": "id", "sessionId": "e3046b73-fe59-422f-ad5d-1f499ee161be", "value": "com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:52:16,999 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:52:17,500 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/e3046b73-fe59-422f-ad5d-1f499ee161be/element {"using": "id", "sessionId": "e3046b73-fe59-422f-ad5d-1f499ee161be", "value": "com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:52:17,743 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:52:18,243 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/e3046b73-fe59-422f-ad5d-1f499ee161be/element {"using": "id", "sessionId": "e3046b73-fe59-422f-ad5d-1f499ee161be", "value": "com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:52:18,349 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:52:18,851 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/e3046b73-fe59-422f-ad5d-1f499ee161be/element {"using": "id", "sessionId": "e3046b73-fe59-422f-ad5d-1f499ee161be", "value": "com.topview.slidemenuframe:id/tv_homepage_bottom_person"}
+2015-08-05 10:52:20,661 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:52:20,661 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/e3046b73-fe59-422f-ad5d-1f499ee161be/element/1/click {"sessionId": "e3046b73-fe59-422f-ad5d-1f499ee161be", "id": "1"}
+2015-08-05 10:52:21,424 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:52:21,424 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/e3046b73-fe59-422f-ad5d-1f499ee161be/element {"using": "id", "sessionId": "e3046b73-fe59-422f-ad5d-1f499ee161be", "value": "com.topview.slidemenuframe:id/ll_user_info"}
+2015-08-05 10:52:22,161 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:52:22,161 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/e3046b73-fe59-422f-ad5d-1f499ee161be/element/2/click {"sessionId": "e3046b73-fe59-422f-ad5d-1f499ee161be", "id": "2"}
+2015-08-05 10:52:23,141 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:52:23,142 remote_connection.py[line:372] DEBUG POST http://127.0.0.1:4723/wd/hub/session/e3046b73-fe59-422f-ad5d-1f499ee161be/element {"using": "id", "sessionId": "e3046b73-fe59-422f-ad5d-1f499ee161be", "value": "com.topview.slidemenuframe:id/user_name"}
+2015-08-05 10:52:24,519 remote_connection.py[line:467] DEBUG Finished Request
+2015-08-05 10:52:24,523 remote_connection.py[line:372] DEBUG DELETE http://127.0.0.1:4723/wd/hub/session/e3046b73-fe59-422f-ad5d-1f499ee161be {"sessionId": "e3046b73-fe59-422f-ad5d-1f499ee161be"}
+2015-08-05 10:52:27,177 remote_connection.py[line:467] DEBUG Finished Request
